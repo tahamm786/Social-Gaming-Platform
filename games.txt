@@ -1,0 +1,20 @@
+1	PUBG    Multiplayer 100 A large-scale battle royale game where 100 players fight to be the last one standing.   4.0
+2	Fortnite	Battle Royale	150	A colorful battle royale with unique building mechanics and frequent updates.	4.2
+3	Minecraft	Sandbox	200	A 3D sandbox game with endless possibilities for building, exploring, and surviving.	4.8
+4	Call of Duty: Warzone	FPS	120	A free-to-play, fast-paced battle royale experience within the Call of Duty universe.	3.9
+5	Among Us	Social Deduction	80	A game of teamwork and betrayal where crewmates try to identify impostors on a spaceship.	4.1
+6	The Witcher 3: Wild Hunt	RPG	50	An expansive open-world RPG following Geralt of Rivia as he searches for his adopted daughter.	5.0
+7	Cyberpunk 2077	RPG	45	An open-world,action-adventure story set in Night City,a megalopolis obsessed with power,glamour and body modification.	3.8
+8	Apex Legends	Battle Royale	110	A squad-based battle royale with unique character abilities and fluid movement.	4.3
+9	Valorant	FPS	90	A tactical character-based shooter where precise gunplay meets unique agent abilities.	4.1
+10	League of Legends	MOBA	180	A competitive 5v5 multiplayer online battle arena game.	4.2
+11	Dota 2	MOBA	70	A complex 5v5 multiplayer online battle arena game with a massive roster of heroes.	4.0
+12	Animal Crossing: New Horizons	Simulation	60	A relaxing life simulation game where you build your own island paradise.	4.5
+13	FIFA 22	Sports	130	The annual installment of the popular football (soccer) simulation game.	3.5
+14	Super Mario Odyssey	Platformer	40	Mario's adventure to rescue Princess Peach from Bowser,using his hat to capture objects and enemies.	4.9
+15	God of War (2018)	Action-Adventure	35	Kratos embarks on a new journey with his son Atreus in the world of Norse mythology.	5.0
+16	Red Dead Redemption 2	Action-Adventure	55	An epic story about outlaw Arthur Morgan in the late 1800s American frontier.	4.9
+17	Grand Theft Auto V	Action-Adventure	160	An open-world game following three different protagonists in the fictional city of Los Santos.	4.6
+18	Elden Ring	Action RPG	25	A challenging and vast open-world action RPG developed by FromSoftware.	4.8
+19	Horizon Zero Dawn	Action RPG	30	A post-apocalyptic action RPG where the protagonist Aloy hunts massive robotic creatures.	4.4
+20	Rocket League	Sports	95	A hybrid of arcade-style soccer and vehicular mayhem.	4.5
