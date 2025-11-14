@@ -17,4 +17,4 @@
 17	Grand Theft Auto V	Action-Adventure	160	An open-world game following three different protagonists in the fictional city of Los Santos.	4.6
 18	Elden Ring	Action RPG	25	A challenging and vast open-world action RPG developed by FromSoftware.	4.8
 19	Horizon Zero Dawn	Action RPG	30	A post-apocalyptic action RPG where the protagonist Aloy hunts massive robotic creatures.	4.4
-20	Rocket League	Sports	95	A hybrid of arcade-style soccer and vehicular mayhem.	4.5
+20	Rocket League	Sports	95	A hybrid of arcade-style soccer and vehicular mayhem.	4.5 
